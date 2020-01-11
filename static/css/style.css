@@ -13,15 +13,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a:link, a:visited {
-    color: #0000e0;
-    text-decoration: none
+    color: #444;
 }
 
 a:hover, a:active {
-    color: #0000ff;
-    text-decoration: underline
+    color: #444;
 }
 
+.project_list_image {
+    width: 30%;  
+    height: auto;
+    float: right;
+}
+
+.project_header_image {
+    width: 100%;  
+    height: auto;
+}
+
+#head_shot {
+    width: 40%;  
+    height: auto;
+    float: right;
+}
 
 /* Single column layout */
 nav section, header section, main, footer section {
@@ -49,6 +63,9 @@ nav a:link, nav a:visited {
 
 nav a:hover, nav a:active {
     color: #ffffff;
+}
+
+.nav_link {
     text-decoration: none;
 }
 
