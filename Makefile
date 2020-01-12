@@ -2,7 +2,7 @@ site:
 	./makesite.py
 
 serve: site
-	cd _site && python -m SimpleHTTPServer 2> /dev/null || python3 -m http.server
+	cd _site && python3 -m http.server
 
 venv2:
 	virtualenv ~/.venv/makesite
