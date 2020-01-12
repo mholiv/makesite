@@ -1,7 +1,6 @@
 <!-- title: Secret Hitler Overview -->
 # Secret Hitler Overview
 
-## About
 This project was simple enough to not warrant a series of update blog posts.
 
 The only trouble I had was getting OpenSCAD to output files suitable for multi material prints.
@@ -12,7 +11,7 @@ Eventually my solution was to:
 3. Select both of these and import them into PrusaSlicer together. Select that you want to import these `.stl` as a single object.
 4. Repeat for every bit name tag you want to make.
 
-This is better documented in the OpenSCAD file in teh github repo. There may be a better way but at the time of creation there was no easy way I could find.
+This is better documented in the OpenSCAD file in the github repo. There may be a better way but at the time of creation there was no easy way I could find.
 
 This was my first multi material/color print. Yay!
 

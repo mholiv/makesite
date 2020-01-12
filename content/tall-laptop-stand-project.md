@@ -1,7 +1,6 @@
 <!-- title: Tall Laptop Stand Overview -->
 # Tall Laptop Stand Overview
 
-## About
 This project was my first ever venture into 3D design. I had just acquired a 3D printer and wanted to print something out for myself. This was created in "Parts" mode in FreeCAD. In the end the design worked out well and I use it every day!
 
 <img class="project_header_image" src="/images/laptop_stand.jpeg">
